@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "priv2ppk (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "priv2ppk (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
